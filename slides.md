@@ -22,7 +22,9 @@ This talk on Github: thomasjpfan/scipy-2021-streamlit</a>
 
 ### Allows you to quickly build web applications and Dashboards in `Python`
 
-![:scale 90%](images/streamlit_dual_window.png)
+.center[
+![:scale 80%](images/streamlit_dual_window.png)
+]
 
 ---
 
@@ -34,7 +36,9 @@ class: chapter-slide
 
 # Regular Python Files
 
+.center[
 ![:scale 90%](images/streamlit_dual_window.png)
+]
 
 ---
 
