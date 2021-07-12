@@ -286,6 +286,10 @@ def load_data():
 - [Anchors: High-Precision Model-Agnostic Explanations](https://ojs.aaai.org/index.php/AAAI/article/view/11491)
 
 
+```python
+import streamlit.components.v1 as componenets
+```
+
 ---
 
 # Streamlit Components!
