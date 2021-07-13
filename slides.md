@@ -272,15 +272,20 @@ class: chapter-slide
 
 # Performance 🚀
 
+.g[
+.g-6[
 - `st.cache` to cache function return values
 - Really useful for data loading
-
+]
+.g-6[
 ```python
 @st.cache
 def load_data():
     data = pd.read_csv(...)
     return data
 ```
+]
+]
 
 ---
 
