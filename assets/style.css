@@ -82,8 +82,9 @@ strong {
     font-weight: bold;
 }
 
-.larger {
-    font-size: 1.3em;
+.larger,
+.larger .remark-code {
+    font-size: 1.2em;
 }
 
 .smaller {

@@ -105,13 +105,15 @@ st.image(image_path)
 ---
 
 .g.g-middle[
-.g-6[
+.g-6.larger[
 ```python
 import streamlit as st
 ```
 ]
 .g-6.g-center[
-![:scale 50%](images/streamlit-mark-color.png)
+![:scale 40%](images/streamlit-mark-color.png)
+### Demo materials for this talk:
+[github.com/thomasjpfan/scipy-2021-streamlit-demo](https://github.com/thomasjpfan/scipy-2021-streamlit-demo)
 ]
 ]
 
