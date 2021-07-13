@@ -31,6 +31,7 @@ This talk on Github: thomasjpfan/scipy-2021-streamlit</a>
 class: chapter-slide
 
 # Three Advantages of Streamlit 🚀
+### (In my opinion)
 
 ---
 
