@@ -371,6 +371,6 @@ class: title-slide, left
 <a href="https://www.github.com/thomasjpfan" target="_blank"><span class="icon icon-github icon-left"></span></a>
 <a href="https://www.twitter.com/thomasjpfan" target="_blank"><span class="icon icon-twitter"></span></a>
 <a class="this-talk-link", href="https://github.com/thomasjpfan/scipy-2021-streamlit" target="_blank">
-This workshop on Github: github.com/thomasjpfan/scipy-2021-streamlit</a>
+This talk on Github: github.com/thomasjpfan/scipy-2021-streamlit</a>
 ]
 ]
