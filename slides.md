@@ -62,7 +62,6 @@ class: chapter-slide
 ![:scale 100%](images/altair-logo-light.png)
 ]
 ]
-- **graphviz** and **PyDeck**
 
 ---
 
@@ -241,7 +240,6 @@ class: chapter-slide
 ![:scale 100%](images/altair-logo-light.png)
 ]
 ]
-- **graphviz** and **PyDeck**
 
 ---
 
@@ -274,7 +272,7 @@ class: chapter-slide
 
 # Performance 🚀
 
-- `st.cache` to cache function returns
+- `st.cache` to cache function return values
 - Really useful for data loading
 
 ```python
