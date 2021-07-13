@@ -6,6 +6,10 @@ body {
     word-wrap: break-word;
 }
 
+.this-talk-link.title-page {
+  margin-top: 0px;
+}
+
 
 /* Remark ------------------------------------------------------------------- */
 

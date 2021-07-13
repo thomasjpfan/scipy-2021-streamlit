@@ -8,13 +8,16 @@ class: title-slide
 ![:scale 30%](images/streamlit-mark-color.png)
 
 <br>
-.larger[Thomas J. Fan]<br>
+Thomas J. Fan<br>
+
 @thomasjpfan<br>
 <a href="https://www.github.com/thomasjpfan" target="_blank"><span class="icon icon-github icon-left"></span></a>
 <a href="https://www.twitter.com/thomasjpfan" target="_blank"><span class="icon icon-twitter"></span></a>
-<a class="this-talk-link", href="https://github.com/thomasjpfan/scipy-2021-streamlit" target="_blank">
-This talk on Github: thomasjpfan/scipy-2021-streamlit</a>
 
+![:scale 15%](images/labs.jpg)
+
+<a class="this-talk-link title-page", href="https://github.com/thomasjpfan/scipy-2021-streamlit" target="_blank">
+This talk on Github: thomasjpfan/scipy-2021-streamlit</a>
 
 ---
 
@@ -371,6 +374,9 @@ class: title-slide, left
 @thomasjpfan<br>
 <a href="https://www.github.com/thomasjpfan" target="_blank"><span class="icon icon-github icon-left"></span></a>
 <a href="https://www.twitter.com/thomasjpfan" target="_blank"><span class="icon icon-twitter"></span></a>
+
+![:scale 40%](images/labs.jpg)
+
 <a class="this-talk-link", href="https://github.com/thomasjpfan/scipy-2021-streamlit" target="_blank">
 This talk on Github: github.com/thomasjpfan/scipy-2021-streamlit</a>
 ]
